@@ -9,3 +9,6 @@ Similarly, you can use the /scrape-external endpoint by passing the URL to scrap
 http://localhost:3000/scrape-external?url=https://www.example.com 
 
 Make sure to replace 'YOUR_SCRAPER_API_KEY' with your actual Scraper API key.**
+
+
+https://developersarenain-ubiquitous-pancake-xqq7vwr5jg43vvgg-3000.preview.app.github.dev/scrape?api_key=e6aaf7be2a16cfdb55d2661148cac2a9&keyword=Electronics&page=2
